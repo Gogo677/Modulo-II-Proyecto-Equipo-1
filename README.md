@@ -37,7 +37,6 @@ que la distribución Normal podría no ser el mejor modelo, y que distribuciones
 2. ¿Existe una diferencia significativa en el **precio medio** entre vehículos con transmisión
    **Automática** y **Manual**?
 
-## 3. Descripción del dataset
 
 ## 3. Descripción del dataset
 **Fuente:** [100,000 UK Used Car Data Set (bmw.csv) — Kaggle](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes?select=bmw.csv).
