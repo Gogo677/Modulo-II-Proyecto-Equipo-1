@@ -97,7 +97,8 @@ asimétricas.
 ├── README.md            # Este documento (propuesta y guía del proyecto)
 ├── analisis_bmw.ipynb   # Notebook con el análisis estadístico completo
 ├── bmw.csv              # Dataset utilizado
-└── requirements.txt     # Dependencias de Python
+├── requirements.txt     # Dependencias de Python
+└── img/                 # Capturas de la presentación del proyecto
 ```
 
 ## 7. Cómo reproducir el análisis
@@ -134,3 +135,12 @@ jupyter notebook analisis_bmw.ipynb
 - Documentación `scipy.stats`: <https://docs.scipy.org/doc/scipy/reference/stats.html>
 - Python: <https://www.python.org/>
 - Kaggle Learn: <https://www.kaggle.com/learn>
+
+## 11. Presentación
+
+| | |
+|---|---|
+| ![Portada](img/slide-01-portada.jpg) | ![Planteamiento del problema](img/slide-02-planteamiento.jpg) |
+| ![Datos y análisis exploratorio](img/slide-03-eda.jpg) | ![Modelado de la distribución del precio](img/slide-04-distribuciones.jpg) |
+| ![Intervalo de confianza al 95%](img/slide-05-intervalo-confianza.jpg) | ![Prueba de hipótesis: Automática vs Manual](img/slide-06-prueba-hipotesis.jpg) |
+| ![Conclusiones](img/slide-07-conclusiones.jpg) | |
