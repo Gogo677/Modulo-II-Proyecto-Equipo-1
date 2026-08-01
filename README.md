@@ -1,6 +1,6 @@
 # Análisis Estadístico del Precio de Vehículos BMW
 
-**Diplomado en Técnicas Estadísticas en Minería de Datos**
+**Diplomado en Técnicas Estadísticas y Minería de Datos**
 **Módulo II — Modelos Estadísticos · Proyecto Final**
 
 > Identificación de la distribución de probabilidad que mejor modela el precio de
