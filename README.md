@@ -39,7 +39,7 @@ que la distribución Normal podría no ser el mejor modelo, y que distribuciones
 
 ## 3. Descripción del dataset
 
-**Fuente:** [BMW Sales and Pricing Trends — Kaggle](https://www.kaggle.com/datasets/ayeshaimran1619/bmw-sales-and-pricing-trends)
+**Fuente:** [BMW Sales and Pricing Trends — Kaggle](https://www.kaggle.com/datasets/ayeshaimran1619/bmw-sales-and-pricing-trends) (Nota 31 de Julio 2026: Al parecer el autor del dataset decidio borrar su cuenta y ahora no  se encuentra la pagina y datos)
 · Archivo local: [`bmw.csv`](bmw.csv)
 
 | Característica | Detalle |
